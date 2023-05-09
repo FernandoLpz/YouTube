@@ -1,0 +1,13 @@
+[ ✅ ] 1. Cargar y desplegar video
+
+[ ✅ ] 2. Cargar modelo Yolov5n
+
+[ ✅ ] 3. Filtrar y obtener bboxes
+
+[  ] 4. Validar detecciones
+
+     [ ✅ ] 4.1 Definir zona (polígono)
+     [ ⏳ ] 4.2 Validar si detección en está en polígono
+     [   ] 4.3 Agregar contador
+
+[   ] 5. Visualización
